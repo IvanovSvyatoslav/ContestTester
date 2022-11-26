@@ -1,0 +1,5 @@
+/// Example test. [x] - x is variable. File should have path tests/tests-{task_num}.txt
+-- [test_name] [test] in
+... (test lines)
+-- out
+... (expected output)
